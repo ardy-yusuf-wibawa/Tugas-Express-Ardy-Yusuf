@@ -1,7 +1,7 @@
 {
-  "name": "api-harisenin",
+  "name": "tugas-express",
   "version": "1.0.0",
-  "description": "ini API bootcamp harisenin",
+  "description": "ini API bootcamp harisenin untuk Tugas Express.Js (Ardy Yusuf)",
   "main": "src/index.js",
   "scripts": {
     "start": "nodemon src/index.js",
